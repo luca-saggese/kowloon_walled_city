@@ -4,11 +4,12 @@ const fs = require('fs');
 const app = express();
 const PORT = 8088;
 
-const host = 'http://www.thingsmind.com:' + PORT;
+const host ='www.thingsmind.com';
+const url = 'http://' + host + ':' + PORT;
 
 app.get('/getData.php', (req, res) => {
     const filename = `./json/${req.query['f']}${req.query['chapter'] ? '_' + req.query['chapter'] : ''}.json`;
-    const json = fs.readFileSync(filename).toString().replace(/http:\/\/localhost:8088/g,host);
+    const json = fs.readFileSync(filename).toString().replace(/localhost/g, host).replace(/8088/g, PORT);
     res.send(JSON.parse(json));
 });
  
@@ -22,6 +23,6 @@ app.get('/api-video/find_all_videos.asp', (req, res) => {
 app.use(express.static(path.join(__dirname, 'kwc')));
 
 app.listen(PORT, '0.0.0.0',()=>{
-  console.log('open ' + host + '/index.html')  
+  console.log('open ' + url + '/index.html')  
 });
 
