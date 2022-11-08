@@ -1,0 +1,437 @@
+
+<!-- VERSION 086341b -->
+<!DOCTYPE html>  
+<!--[if lt IE 7 ]>
+<html lang="en" class="no-js ie6">
+<![endif]-->
+<!--[if IE 7 ]>
+<html lang="en" class="no-js ie7"> 
+<![endif]-->
+
+<!--[if IE 8 ]>
+<html lang="en" class="no-js ie8"> 
+<![endif]-->
+
+<!--[if IE 9 ]>	
+<html lang="en" class="no-js ie9"> 
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!--> 
+<html lang="en" class="no-js"> 
+<!--<![endif]-->
+
+
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	
+	<title>Kowloon Walled City</title><!-- EDIT ME -->
+	
+	<!-- <link rel="canonical" href="https://graphics.wsj.com/CHANGE_TO_BASE_URL/"/>-->
+	<link rel="shortcut icon" href="https://si.wsj.net/favicon.ico"/>
+	<link rel="apple-touch-icon" href="https://localhost:8088/apple-touch-icon.png"/>
+	
+	<!-- ipad -->
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0" />
+	
+	<!-- meta tags -->
+	<link rel="image_src" href="http://online.wsj.com/media/kwcOgImage.jpg"/>  <!-- this should be a promo thumbnail type image. Used by FB and others for link sharing-->
+	<meta name="author" content="WSJ.com News Graphics"/>
+	<meta name="title" content="Kowloon Walled City"/>
+	<meta name="description" content="Hong Kong's Kowloon Walled City was the densest place on the planet before it was torn down 20 years ago. In this Wall Street Journal interactive, you can take a trip through the city, explore its history and hear from the people who lived there."/>
+	<meta name="keywords" content="Kowloon Walled City, Kowloon Walled City Park, Kowloon Walled City Pictures, Kowloon Walled City Documentary, Hong Kong, Interactive, Japan, Japanese Theme Park, Pop Culture, China, KWC, Kowloon, HK"/>
+	<meta name="news_keywords" content="">
+	
+	<!-- FB like for retrofit -->
+	<meta property="og:image" content="http://online.wsj.com/media/kwcOgImage.jpg"/> 
+	<meta property="og:title" content="Kowloon Walled City"/>
+	<meta property="og:url" content="http://projects.wsj.com/kwc/"/> 
+	<meta property="og:type" content="article"/>
+	<meta property="og:site_name" content="The Wall Street Journal"/>
+
+	<!-- Transfer device type in to javascript -->
+	<script>
+		var deviceType = 'computer';
+		//var android = 'notandroid';
+
+		var ua = navigator.userAgent.toLowerCase();
+		var android = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+	</script>
+
+	<!-- Pace --> 
+	<script type="text/javascript" src="libs/pace.min.js"></script>	
+   
+    <!-- tracking -->
+	<script type="text/javascript" src="https://online.wsj.com/public/resources/documents/WSJ_Interactive_TrackingAndAdsv6.min.js"></script> 
+    <script>
+    
+    if(!false) {
+        (function(a){if(/android.+mobile|avantgo|bada\/|blackberry|playbook.+tablet|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))){
+            var u = (function(uri, key, value) {
+              var re = new RegExp("([?|&])" + key + "=.*?(&|$)", "i");
+              separator = uri.indexOf('?') !== -1 ? "&" : "?";
+              if (uri.match(re)) {
+                return uri.replace(re, '$1' + key + "=" + value + '$2');
+              }
+              else {
+                return uri + separator + key + "=" + value;
+              }
+            })(window.location.protocol+'//'+window.location.hostname+window.location.pathname+window.location.search, 'standalone', '1');            
+            window.location = u+window.location.hash;
+        }})(navigator.userAgent||navigator.vendor||window.opera);
+    }
+    </script>
+
+	<!-- CUSTOM FONTS -->
+	<link rel="stylesheet" href="css/qox0wee-d.css"/><!-- Kulturista -->
+	<!-- <link href="https://cloud.webtype.com/css/46460709-3c3e-42ff-bb5b-e98f66f43528.css" rel="stylesheet" type="text/css" /> --><!-- Escrow -->
+	<!-- <link href="https://cloud.webtype.com/css/3b9ba193-dca7-423a-bef1-4f7e650bf91f.css" rel="stylesheet" type="text/css" /> --><!-- Stainless -->
+	<link href="https://cloud.webtype.com/css/d0fbfa08-8cb4-49be-ac2f-9b02e71c406a.css" rel="stylesheet" type="text/css" /><!-- Dispatch -->
+
+	<!-- base styles from Chris Johnson and CSS group -->
+	<!-- <link rel="stylesheet" href="//g.wsj.net/kwc/css/global.min.css"/> -->
+	<link rel="stylesheet" href="//g.wsj.net/kwc/css/wsj_interactive.css"/>
+
+		<link rel="stylesheet" href="//g.wsj.net/kwc/css/retrofit.css"/>
+	
+	<!-- Video JS -->
+	<script src="libs/video.js"></script>
+	<link href="//g.wsj.net/kwc/css/video-js.css" rel="stylesheet">
+
+	<!-- Leaflet -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@0.6.4/dist/leaflet.css"/>
+
+	<!-- Early scripts -->
+	<script type="text/javascript" src="https://unpkg.com/leaflet@0.6.4/dist/leaflet.js"></script>
+
+	<!-- Magnific -->
+	<link rel="stylesheet" href="//g.wsj.net/kwc/css/magnific-popup.css"/>
+
+	<!-- This is where YOUR style sheet goes -->
+	<link rel="stylesheet" type="text/css" href="//g.wsj.net/kwc/css/djs-banner.css">
+	<link rel="stylesheet" href="//g.wsj.net/kwc/css/jquery.socialclimber.css"/>
+	<link rel="stylesheet" href="//g.wsj.net/kwc/css/player.base.css"/>
+	<link href="//g.wsj.net/kwc/css/WsjVideoPlayer.css" rel="stylesheet" type="text/css">	
+	<link href="https://fonts.wsj.net/fonts/hoefler-web-fonts/fonts/HCo_Chronicle/font_HCo_Chronicle.css" rel="stylesheet" type="text/css" /><!-- Chronicle -->
+	<link rel="stylesheet" href="//g.wsj.net/kwc/css/style.css"/>
+	
+	<!-- Turn off tracking by including ?tracking=0 in the URL -->
+	<script type="text/javascript">
+		var tracking = parseInt("<?if (isset($_GET['tracking'])) { echo $_GET['tracking'];}?>",10);
+	</script>
+	
+	<!-- Chart templates -->
+	<script type="text/x-template" id="densitycharttpl">
+	  <div id="sideContentHed">
+        <div class="hed">{{hed}}</div>
+        <div class="dek">{{dek}}</div>
+      </div>
+      <div class="bigFact">
+        <div class="bigFactHed">{{total_pop}}</div>
+        <div class="bigFactDek">{{total_pop_text}}</div>
+      </div>
+      <div class="bigFact">
+        <div class="bigFactHed">{{area}}</div>
+        <div class="bigFactDek">{{area_text}}</div>        
+        <div class="bigFactSubDek">({{area_subtext}})</div>
+      </div>
+	  <div class="densitychart">
+	    <div class="densitychart_chartpadding">
+	      <div class="square densitychart_square densitychart_mainsquare">
+	        <div class="densitychart_mainsquare_toptext">
+	          <div>{{density_text}}</div>
+	        </div>
+	        <div class="densitychart_mainsquare_bottomtext">
+	          <div class="densitychart_totaldensity">{{total_density_text}}</div>
+	          <div class="densitychart_units">{{{units}}}</div>
+	        </div>
+	      </div>
+	      {{#chartdata}}
+	      <div class="csstable densitychart_table">
+	        <div class="csstablecell" style="width:{{squarewidth}};">
+	          <div class="densitychart_square square"></div>
+	        </div>
+	        <div class="csstablecell densitychart_tabletext" style="width:{{textwidth}};">
+	          <div class="densitychart_cityname">{{name}}</div>
+	          <div class="densitychart_densityvalue">{{density}}</div>
+	        </div>
+	      </div>
+	      {{/chartdata}}
+	    </div>
+	  </div>
+      <div class="factHorizontal"></div>
+	  <div class="bigFact">
+        <div class="bigFactHed">{{building_count}}</div>
+        <div class="bigFactDek">{{building_count_text}}</div>
+      </div>
+      <div class="factHorizontal"></div>
+      <div class="bigFact">
+        <div class="bigFactImage"><img src="{{height_image}}"/></div>
+        <div class="bigFactHed">{{{height_count}}}</div>
+        <div class="bigFactDek">{{{height_count_text}}}</div>        
+        <div class="bigFactSubDek">({{height_count_subtext}})</div>
+      </div>
+      <div class="source">
+        {{source}}
+      </div>
+	</script>
+
+	<script type="text/x-template" id="shopscharttpl">
+	  <div id="chartHedDekContainer">
+        <div class="chartHed">{{hed}}</div>
+        <div class="chartDek">{{dek}}</div>
+      </div>
+	  <div class="shopschart">
+	    <div class="shopschart_chartpadding">
+	      <div class="csstable">
+	        {{#chartdata}}
+	        <div class="csstablerow shopschart_tablerow">
+	          <div class="csstablecell shopschart_tabletext">
+	            {{name}}
+	          </div>
+	          <div class="csstablecell shopschart_barcell">
+	            <div class="shopschart_bar" style="width:{{barwidth}};">{{number}}</div>
+	          </div>
+	        </div>
+	        {{/chartdata}}
+	        <div class="csstablerow shopschart_totalrow">
+				<div class="factHorizontal"></div>
+	        </div>
+	        <div class="csstablerow shopschart_totalrow">
+	          <div class="csstablecell">{{string_total}}</div>
+	          <div class="csstablecell">{{total}}</div>
+	        </div> 
+	      </div>
+	    </div>
+	      <div class="source">
+	        {{source}}
+	      </div>
+	  </div>
+	</script>             
+
+	<script type="text/x-template" id="wheregocharttpl">
+	  <div id="chartHedDekContainer" class="wheregochart_hed">
+        <div class="chartHed">{{hed}}</div>
+        <div class="chartDek">{{dek}}</div>
+      </div>
+	  <div class="wheregochart">
+	  	<div class="wheregochart_chartpadding">
+	      <div class="csstable wheregochart_table">
+	        {{#chartdata}}
+	        <div class="csstablerow wheregochart_tablerow" style="height:{{barheight}};max-height:{{barheight}} !important; overflow-y:hidden;">
+	          <div class="csstablecell wheregochart_barcell">
+	              <div class="wheregochart_percent {{#first}}wheregochart_firstpercent{{/first}}">{{percent}}</div>
+	          </div>
+	          <div class="csstablecell wheregochart_tabletext">
+	              <div style="wheregochart_text">{{text}}</div>
+	          </div>
+	          
+	        </div>
+	        {{/chartdata}}
+	      </div>
+	    </div>
+	      <div class="source">
+	        {{source}}
+	      </div>
+	  </div>
+	</script>             
+
+	<script type="text/x-template" id="pngcharttpl">
+	  <div class="pngchart">
+	    <div class="pngchart_chartpadding">
+		  <div id="chartHedDekContainer">
+	        <div class="chartHed">{{{hed}}}</div>
+	      </div>
+	      <div class="bigFact">
+	        <div class="bigFactHed">{{{average_size}}}</div>
+	        <div class="bigFactDek">{{{average_size_text}}}</div>
+	      </div>
+	      <div class="pngchart_chartimage_container">
+	        <img class="pngchart_chartimage" src="{{chartimage}}"></img>
+	      </div>
+	      <div class="source">{{{source}}}</div>
+	    </div>
+	  </div>
+	</script>    
+
+	<script type="text/x-template" id="dimsumcharttpl">
+	    <div class="dimsumchart">
+	      <div class="dimsumchart_chartpadding">
+		      <div id="chartHedDekContainer">
+		        <div class="chartHed">{{{hed}}}</div>
+		      </div>
+	        <div class="csstable">
+	          {{#chartdata}}
+	          <div class="csstablerow">
+	            <div class="csstablecell">
+	              <img class="dimsumchart_icon" src="{{iconlink}}"></img>
+	            </div>
+	            <div class="csstablecell">
+	              <div class="dimsumchart_name">
+	                {{name}}
+	              </div>
+	              <div class="dimsumchart_description">
+	                ({{description}})
+	              </div>
+	              <div class="dimsumchart_price">
+	                {{hkprice}} <span class="dimsumchart_price_american">({{usprice}})<span>
+	              </div>
+	            </div>
+	          </div>
+	          {{/chartdata}}
+	        </div>
+	        <div class="source">{{{source}}}</div>
+	      </div>
+
+	</script>
+
+	<script type="text/x-template" id="triadcharttpl">
+	    <div class="triadchart">
+	      <div class="triadchart_chartpadding">
+		      <div id="chartHedDekContainer">
+		        <div class="chartHed">{{{hed}}}</div>
+		      </div>
+		      <div class="bigFact">
+		        <span class="bigFactDek">{{{protection_money_text}}}</span>		        
+		        <span class="bigFactHed">{{{protection_money}}}</span>
+		      </div>
+		      <div id="chartHedDekContainer">
+		        <div class="chartSubHed">{{{subhed}}}</div>
+		      </div>
+	        <div class="csstable">
+	          {{#chartdata}}
+	          <div class="csstablerow">
+	            <div class="csstablecell triadchart_name">
+	              {{name}}
+	            </div>
+	            <div class="csstablecell">
+	              <div class="triadchart_hkprice">
+	                {{hkprice}}
+	              </div>
+	              <div class="triadchart_usprice">
+	                ({{usprice}})
+	              </div>
+	            </div>
+	            <div class="csstablecell">
+	              <img class="triadchart_icon" src="{{iconlink}}"></img>
+	            </div>
+	          </div>
+	          {{/chartdata}}
+	        </div>	        
+	          <div class="source">{{{source}}}</div>
+	      </div>
+
+	</script>   
+
+	<script type="text/x-template" id="sexcharttpl">
+	    <div class="sexchart">
+	      <div class="sexchart_chartpadding">
+	      <div id="chartHedDekContainer">
+	        <div class="chartHed">{{{hed}}}</div>
+	      </div>
+	        <div class="csstable">
+	          {{#chartdata}}
+	          <div class="csstablerow">
+	            <div class="csstablecell sexchart_name">
+	              {{name}}<br/><span class="smaller">{{subname}}</span>
+	            </div>
+	            <div class="csstablecell">
+	              <div class="sexchart_hkprice">
+	                {{hkprice}}
+	              </div>
+	              <div class="sexchart_usprice">
+	                ({{usprice}})
+	              </div>
+	            </div>
+	          </div>
+	          {{/chartdata}}
+	        </div>
+	          <div class="source">{{{source}}}</div>
+	      </div>
+
+	</script>         
+</head>
+
+<!--
+	Uncomment this to show the grid
+	<body class="debug">
+-->
+
+<body>
+	<!-- Main Page Starts -->
+	<div id="interactive_wrapper">
+		<div id="container" class="">
+			<div id="mainContent" class=""></div>
+			<div id="sectionContent">
+			</div>
+			<div id="sideContent" class="nodisplay">
+				<div id="sideContentInner" class"">
+				</div>		 
+				<button id="sideContentClose" title="Close (Esc)" type="button" class="mfp-close">×</button>
+			</div>	
+			<div class="controls" style="bottom: 0px;">
+				 	<a class="djs-bn-logo icon-WSJ button">
+				 		<div class="button"></div>
+				 	</a>
+				 	<div id="chapters">
+				    </div>
+			</div>
+			<div id="landscapeWarningContainer"><div id="landscapeWarning" class="absolute-center">Please rotate your device</div></div>
+			<!-- DELETE UP TO HERE -->
+
+		</div> <!-- end of #container -->
+	</div> <!-- end of #interactive_wrapper -->
+
+	<!-- jquery -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="libs/jquery-1.10.2.min.js"%3E%3C/script%3E'));</script>
+	
+	<!-- Fonts -->
+	<!--<script type="text/javascript" src="https://fonts.wsj.com/rtn5rej.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	-->
+
+	<!-- tracking -->
+	<!-- interactive logic -->
+	<script type="text/javascript" src="libs/modernizr-1.6.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.socialclimber.js.min.js"></script>
+	<script type="text/javascript" src="libs/bbq.js.min.js"></script>
+	<script type="text/javascript" src="js/common.min.js"></script>
+	<!-- <script type="text/javascript" src="libs/freewall.js"></script> -->
+	<!-- <script type="text/javascript" src="libs/skrollr.js"></script> -->
+	<script type="text/javascript" src="libs/d3.min.js"></script>
+	<!-- <script type="text/javascript" src="https://www.google.com/uds?file=ima&v=1&nodependencyload=true"></script> -->
+	<script type="text/javascript" src="//g.wsj.net/kwc/js/jquery-ui-1.10.0.custom.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.wsjVideoPlayer.js"></script> 
+	<link rel="stylesheet" href="//video-api.wsj.com/api-video/player/v3/css/video.min.css">
+	<script src="//video-api.wsj.com/api-video/player/v3/js/video.min.js"></script>
+	<script type="text/javascript" src="//g.wsj.net/kwc/js/tracking.min.js"></script>
+	<script type="text/javascript" src="//g.wsj.net/kwc/js/swfobject.min.js"></script>		
+	<script type="text/javascript" src="libs/waypoints.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.fitvids.js.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.magnific-popup.js.min.js"></script>	
+	<script type="text/javascript" src="libs/jquery.suction.js.min.js"></script>
+	<script type="text/javascript" src="libs/jquery.unveil.min.js"></script>	
+	<script type="text/javascript" src="libs/jquery.lazyload.min.js"></script>		
+	<script type="text/javascript" src="libs/jquery.slides.min.js"></script>		
+	<script type="text/javascript" src="libs/mustache.js.min.js"></script>		
+	<script type="text/javascript" src="libs/jquery.pulse.min.js"></script>			
+	<script type="text/javascript" src="libs/lunar.min.js"></script>		
+	<!-- <script type="text/javascript" src="libs/jquery.visible.min.js"></script> -->	
+	<!-- <script type="text/javascript" src="libs/tile.stamen.js"></script> -->
+
+
+	<!-- THIS IS YOUR SCRIPT FILE -->
+	<script type="text/javascript" src="script.js"></script>
+	 <script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/wsjdn/newsgraphics/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+    </script>
+<div id="cx-scrim"></div></body>
+</html>
+

@@ -1,0 +1,502 @@
+{
+    "section": {
+        "color": "white",
+        "hed": {
+            "en": "Kowloon Walled City: Imagination",
+            "cn": "九龙寨城：幻想之城",
+            "jp": "九龍城砦：作品の中の街"
+        },
+        "shorthed": {
+            "en": "KWC: Imagination",
+            "cn": "KWC：幻想之城",
+            "jp": "KWC：作品の中の街"
+        },
+        "dek": {
+            "en": "Even before Kowloon Walled City was demolished, the mythmaking began. Artists, designers, filmmakers and novelists have all found inspiration for works such as “Bloodsport,” starring Jean-Claude Van Damme, and “The Bourne Supremacy,” written by Robert Ludlum. Flip a tile to see how the Walled City appears in pop culture.</span>",
+            "cn": "早在九龙寨城被拆除以前，它的传奇故事就已经展开了，像由尚格•云顿(Jean-Claude Van Damme)主演的《血点》和罗伯特•勒德伦(Robert Ludlum)写的《谍影重重2》。点选下面的方块，看看艺术家、设计师、电影人和小说家是如何从这个地方汲取灵感的。</span>",
+            "jp": "取り壊しが始まる前から、神話作りは始まった。アーティストやデザイナー、映画制作者、小説家たちが九龍城砦からインスピレーションを得て、作品を世に送り出してきた。こうした作品にはジャン＝クロード・ヴァン・ダム主演の映画「ブラッドスポーツ」やロバート・ラドラムの小説「殺戮のオデッセイ」などがある。タイルをクリックして、ポップカルチャーに登場する九龍城砦を見る</span>"
+        },
+        "options": []
+    },
+    "elements": [
+        {
+            "name": {
+                "en": "Kawasaki Warehouse Arcade",
+                "cn": "Warehouse川崎店",
+                "jp": "ウェアハウス川崎店"
+            },
+            "year": {
+                "en": "2013",
+                "cn": "2013年",
+                "jp": "2013年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ949_KWC_JP_E_20140416001957.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "C2F86309-90AD-444C-8342-D192565E62C4",
+                    "cn": "DB9CA580-CFFF-4E32-AA94-AFBFC34A2897",
+                    "jp": "30A20F21-9D06-4DF7-8148-8CB97606E545"
+                },
+                "hed": {
+                    "en": "Kawasaki Warehouse Arcade (2013)",
+                    "cn": "Warehouse川崎店（2013年）",
+                    "jp": "ウェアハウス川崎店（2013年）"
+                },
+                "dek": {
+                    "en": "In Japan, a video arcade outside Tokyo has meticulously recreated parts of the Kowloon Walled City.",
+                    "cn": "在日本，东京城外的一个室内游乐场钜细靡遗地重现了九龙寨城的风貌 。",
+                    "jp": "日本では東京近郊のゲームセンターに九龍城砦の一部が細かく再現されている。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Batman Begins’",
+                "cn": "《蝙蝠侠：开战时刻》",
+                "jp": "バットマンビギンズ"
+            },
+            "year": {
+                "en": "2005",
+                "cn": "2005年",
+                "jp": "2005年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ563_KWC_ba_E_20140415104324.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "AF295CEE-A3B6-49EE-BE59-D1852A88499A",
+                    "cn": "CA927B5D-9962-4630-96AC-5D739E2A379F",
+                    "jp": "DD460F58-2F56-4D04-ABB7-1446EF0D542F"
+                },
+                "hed": {
+                    "en": "Batman Begins (2005)",
+                    "cn": "《蝙蝠侠：开战时刻》（2005年）",
+                    "jp": "バットマンビギンズ（2005年）"
+                },
+                "dek": {
+                    "en": "The Kowloon Walled City inspired the Narrows, a dystopian neighborhood in Christopher Nolan’s “Batman Begins.”",
+                    "cn": "由克里斯托弗•诺兰(Christopher Nolan)执导的电影《蝙蝠侠：开战时刻》中有一座奈洛岛，该岛场景设定的灵感便来自于现实世界中的九龙寨城。",
+                    "jp": "クリストファー・ノーラン監督の「バットマンビギンズ」に登場するナローズ島の暗黒街は九龍城砦に触発されたものだ。"
+                },
+                "shortQuote": {
+                    "en": "shortQuote_tk",
+                    "cn": "",
+                    "jp": ""
+                },
+                "longQuote": {
+                    "en": "“To the West... the Walled City [represents] a kind of undesirable modernity, close to the collapse of civilization.”--Sam Ho, film historian, on the depiction of the Narrows in “Batman: Begins”",
+                    "cn": "“对于西方国家来说……九龙寨城（代表着）一种不受欢迎的现代感，接近文明的崩塌。”——Sam Ho，电影历史学家，对《蝙蝠侠：开战时刻》中的奈洛的描述。",
+                    "jp": "「西側諸国にとって、九龍城砦は文明の崩壊に近い、望ましくない現代性のようなものを表している」――サム・ホー、映画歴史家"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Bloodsport’",
+                "cn": "《血点》",
+                "jp": "ブラッドスポーツ"
+            },
+            "year": {
+                "en": "1988",
+                "cn": "1988年",
+                "jp": "1988年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CE975_KWC_bl_E_20140403031132.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "7DCF4053-2B8D-4375-AAD5-59CC4DA0117C",
+                    "cn": "3A5C1E92-D308-49B5-9E6B-235FD625FF3E",
+                    "jp": "8796446D-5237-4F82-94BA-9AC3F5E26B2A"
+                },
+                "hed": {
+                    "en": "Bloodsport (1988)",
+                    "cn": "《血点》（1988年）",
+                    "jp": "ブラッドスポーツ（1988年）"
+                },
+                "dek": {
+                    "en": "The U.S. martial-arts movie that launched Jean-Claude Van Damme’s career features a fight inside the Walled City.",
+                    "cn": "这部美国动作片的故事背景设定在香港，片中有一段激烈的打斗就是在九龙寨城里发生的。影星尚格•云顿的电影生涯也从这部片子开始。",
+                    "jp": "香港を舞台にした米国の格闘技映画でジャン＝クロード・ヴァン・ダムの初主演作。九龍城砦内の格闘技を取り上げている。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘The Bourne Supremacy’",
+                "cn": "《神鬼疑云》",
+                "jp": "殺戮のオデッセイ"
+            },
+            "year": {
+                "en": "1986",
+                "cn": "1986年",
+                "jp": "1986年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ948_KWC_Bo_E_20140416001932.jpg",
+            "mediaType": "quote",
+            "contents": {
+                "mediaUrl": "http://localhost:8088/public/resources/images/BN-CJ948_KWC_Bo_E_20140416001932.jpg",
+                "shortQuote": {
+                    "en": "tk",
+                    "cn": "",
+                    "jp": ""
+                },
+                "dek": {
+                    "en": "In this excerpt from the novel, a tycoon wants to meet Jason Bourne — an alias of David Webb — in a location out of the law’s reach:</span>\n\n“You must understand, he's very recognizable, so it must be a most unusual place.”\n\n“Suppose I choose it?”\n\n“Unacceptable, of course. Do not insist. We have your wife.”\n\nDavid tensed; he was losing the control he desperately needed. “Name it,” he said.\n\n“The Walled City. We assume you know it.”\n\n“Of it,” corrected Webb, trying to focus what memory he had. “The filthiest slum on the face of the earth, if I remember.”",
+                    "cn": "在罗伯特•勒德伦的第二部有关贾森•伯恩的小说中，有一段讲述一位大亨想在一个法律所不能及的秘密地点与伯恩见面：</span>“你得知道，他非常有名，所以见面地点必须是一个最不寻常的地方。”“地点由我来选？”“当然不行。不要一意孤行，你老婆在我们手上。”韦布紧张起来，他正在失去急需的控制力。他说：“在什么地方见面？”“九龙寨城。你应该认识。” “听说过”，韦布纠正道，並努力去回想，“据我所知，那是地球上最脏乱差的贫民窟”。",
+                    "jp": "小説にはジェイソン・ボーン――デービッド・ウェッブの別名――に法の網が届かない場所で会いたがっている大物が登場する。</span>\n\n「ヤツはかなり目立つ。一番ありえない場所でなければならん」\n\n「俺が選んでも？」\n\n「もちろん、それは受け入れられない。強気になるな。お前の女房を預かっている」\n\nデービッドは緊張した。ここ一番に必要な自制心を失いつつあった。「場所を言え」と彼は言った。\n\n「城砦の街だ。その街は知っているはずだ」\n\n「その街のことは、だ」とウェッブは相手の言葉を訂正し、自分の記憶に集中しようとした。 「俺が覚えている限り、地球上で最も汚れたスラムだ」"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Idoru’",
+                "cn": "Idoru",
+                "jp": "あいどる"
+            },
+            "year": {
+                "en": "1997",
+                "cn": "1997年",
+                "jp": "1997年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CE993_KWC_id_E_20140403034208.jpg",
+            "mediaType": "quote",
+            "contents": {
+                "mediaUrl": "http://localhost:8088/public/resources/images/BN-CE993_KWC_id_E_20140403034208.jpg",
+                "shortQuote": {
+                    "en": "tk",
+                    "cn": "tk"
+                },
+                "dek": {
+                    "en": "This book in William Gibson’s “Bridge” trilogy features a virtual hacker network known as the Walled City:</span>\n\n“There was a place near an airport, Kowloon, when Hong Kong wasn’t China, but there had been a mistake, a long time ago, and that place, very small, many people, it still belonged to China. So there was no law there. An outlaw place. And more and more people crowded in; they built it up, higher.”",
+                    "cn": "该书是威廉•吉布森(William Gibson) “桥”(Bridge)三部曲中的一部，讲述的是一个被称为九龙寨城的虚拟黑客网：</span>\n\n“那是距离机场很近的一个地方，在九龙，当时香港还不属于中国，但很早以前，出了点问题，那个很小、人很多的地方仍然属于中国。所以那里没有法律，是法外之地。越来越多的人涌入，他们把九龙寨城建得更大、更高。”",
+                    "jp": "SF作家ウィリアム・ギブソンの3部作「橋」の1つ、未来の東京を舞台にした「あいどる」には九龍城砦として知られるハッカーのネットワークが登場する。</span>\n\n「空港の近くに九龍があった。香港が中国ではなかったときに。間違いがあった。大昔に。そこはとても小さく、人が大勢いて、中国のものだった。だからそこには法の秩序がなかった。無法地帯だった。人がどんどん集まってきて、建物を上に、上に築いていった」"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Call of Duty: Black Ops’",
+                "cn": "《使命召唤:黑色行动》",
+                "jp": "コール・オブ・デューティ：ブラックオプス"
+            },
+            "year": {
+                "en": "2011",
+                "cn": "2011年",
+                "jp": "2011年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CF010_KWC_ga_E_20140403050527.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "395A8AA7-6308-4D4A-9AE0-E7833C038992",
+                    "cn": "395A8AA7-6308-4D4A-9AE0-E7833C038992",
+                    "jp": "395A8AA7-6308-4D4A-9AE0-E7833C038992"
+                },
+                "hed": {
+                    "en": "Call of Duty: Black Ops (2011)",
+                    "cn": "《使命召唤:黑色行动》（2011年）",
+                    "jp": "コール・オブ・デューティ：ブラックオプス（2011年）"
+                },
+                "dek": {
+                    "en": "The blockbuster video game’s “First Strike” map pack lets shooters ride a zipline through Kowloon Walled City.",
+                    "cn": "这个热门视频游戏的“先发制人”地图包使射手可以用飞索飞越九龙寨城。",
+                    "jp": "この大ヒットゲームのマップパック「First Strike（ファーストストライク）」で、ユーザーは九龍城砦の上空をジップライン（ワイヤーと滑車を使って下りるもの）で滑空できる。　"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Turk Street’",
+                "cn": "Turk Street",
+                "jp": "タークストリート"
+            },
+            "year": {
+                "en": "2007",
+                "cn": "2007年",
+                "jp": "2007年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ950_KWC_ba_E_20140416002017.jpg",
+            "mediaType": "popaudio",
+            "contents": {
+                "mediaUrl": "http://localhost:8088/public/resources/images/BN-CJ950_KWC_ba_E_20140416002017.jpg",
+                "audio": "audio/band-lite",
+                "hed": {
+                    "en": "Kowloon Walled City (2007)",
+                    "cn": "九龙寨城（2007年）",
+                    "jp": "カオルーン・ウォールド・シティ（2007年）"
+                },
+                "dek": {
+                    "en": "How did this San Francisco band get its name? “Our band plays this very raw, aggressive, dirty, nasty variant of hardcore,” says guitarist Scott Evans. “It all seemed like a good fit.” Listen to their song, “Turk, Taylor and Jones” from the album “Turk Street.”",
+                    "cn": "这支旧金山乐队是怎样得名的？吉他手斯科特•埃文斯(Scott Evans)说：“我们的硬核摇滚充满了强烈的态度，展现出音乐上的一种粗暴冲击。这个队名似乎是个不错的选择。”听听他们的歌，像是《Turk Street》专辑中的《Turk, Taylor and Jones》。",
+                    "jp": "このサンフランシスコのバンドはどうやって名前を決めたのだろうか。ギタリストのスコット・エバンスは「自分たちのバンドが演奏するのは荒削りで、攻撃的、汚くて不快なハードコアの変化形だ」と話す。「だからぴったり合うように思った」。彼らのアルバム「Turk Street（タークストリート）」から「Turk, Taylor and Jones（ターク・テイラー・アンド・ジョーンズ）」を聞いてみよう。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Ip Man: The Final Fight’",
+                "cn": "《叶问：终极一战》",
+                "jp": "イップ・マン　最終章"
+            },
+            "year": {
+                "en": "2013",
+                "cn": "2013年",
+                "jp": "2013年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CE996_KWC_ip_E_20140403034823.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "503E1EE4-73C4-4321-A081-D388BF21896C",
+                    "cn": "C347C309-0348-459F-8D79-6BA3C9CE380F",
+                    "jp": "793F13FA-6B52-4FB8-A36B-62A4231CE050"
+                },
+                "hed": {
+                    "en": "Ip Man: The Final Fight (2013)",
+                    "cn": "《叶问：终极一战》（2013年）",
+                    "jp": "イップ・マン　最終章（2013年）"
+                },
+                "dek": {
+                    "en": "The Walled City is the setting of a fierce fight against outlaws by martial-arts master Ip Man, a real-life historical figure who counted a young Bruce Lee among his students.",
+                    "cn": "一代武术宗师叶问，同时也是李小龙的咏春师傅，在电影中他和黑帮老大对战的擂台，正是位于九龙寨城。",
+                    "jp": "ブルース・リーを指導した歴史的に有名な武術のヒーロー、イップ・マンが無法者を相手にし烈な闘いを行うのが九龍城砦という設定だ。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "Art & Design",
+                "cn": "艺术与设计",
+                "jp": "アート＆デザイン"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ951_KWC_FA_E_20140416002043.jpg",
+            "mediaType": "slideshow",
+            "contents": {
+                "mediaUrl": [
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CE949_KWCfan_E_20140403010033.jpg",
+                        "caption": {
+                            "en": "Kowloon Walled City, 2010",
+                            "cn": "九龙寨城，2010年",
+                            "jp": "カオルーン・ウォールド・シティ（2010年）"
+                        },
+                        "credit": {
+                            "en": "Andrew Suryadi",
+                            "cn": "Andrew Suryadi",
+                            "jp": "Andrew Suryadi"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-BX856_Slide0_E_20140315014828.jpg",
+                        "caption": {
+                            "en": "West Kowloon Walled City, 2009",
+                            "cn": "九龙寨城，2009年",
+                            "jp": "ウエスト・カオルーン・ウォールド・シティ（2009年）"
+                        },
+                        "credit": {
+                            "en": "Douglas Young/G.O.D.",
+                            "cn": "杨志超/住好啲",
+                            "jp": "Douglas Young/G.O.D."
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CE935_KWCfan_E_20140402235652.jpg",
+                        "caption": {
+                            "en": "The Walled City of Kowloon, 2012",
+                            "cn": "九龙寨城，2012年",
+                            "jp": "ザ・ウォールド・シティ・オブ・カオルーン（2012年）"
+                        },
+                        "credit": {
+                            "en": "Francine Grant",
+                            "cn": "Francine Grant",
+                            "jp": "Francine Grant"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF501_KWCfan_E_20140404014551.jpg",
+                        "caption": {
+                            "en": "Kowloon Walled City, 2010",
+                            "cn": "九龙寨城，2012年",
+                            "jp": "ザ・ウォールド・シティ・オブ・カオルーン（2012年）"
+                        },
+                        "credit": {
+                            "en": "Jeremy Stuart Thompson",
+                            "cn": "Jeremy Stuart Thompson",
+                            "jp": "Jeremy Stuart Thompson"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF503_KWCfan_E_20140404015231.jpg",
+                        "caption": {
+                            "en": "The Walled City, 2010",
+                            "cn": "九龙寨城，2010年",
+                            "jp": "ザ・ウォールド・シティ（2010年）"
+                        },
+                        "credit": {
+                            "en": "Stefan Herda",
+                            "cn": "Stefan Herda",
+                            "jp": "Stefan Herda"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF504_KWCfan_E_20140404015542.jpg",
+                        "caption": {
+                            "en": "Kowloon Walled City, Hong Kong, 1988",
+                            "cn": "九龙寨城，香港，1988年",
+                            "jp": "カオルーン・ウォールド・シティ、香港（1988年）"
+                        },
+                        "credit": {
+                            "en": "Kong Kai Ming",
+                            "cn": "Kong Kai Ming",
+                            "jp": "Kong Kai Ming"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF506_KWCfan_E_20140404020148.jpg",
+                        "caption": {
+                            "en": "Showdown in Kowloon Walled City, 2010",
+                            "cn": "九龙寨城一决胜负，2010年",
+                            "jp": "ショーダウン・イン・カオルーン・ウォールド・シティ（2010年）"
+                        },
+                        "credit": {
+                            "en": "T.J. Ryan",
+                            "cn": "T.J. Ryan",
+                            "jp": "T.J. Ryan"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF507_KWCfan_E_20140404020640.jpg",
+                        "caption": {
+                            "en": "KOWLOON Walled City, 2009",
+                            "cn": "九龙寨城，2009年",
+                            "jp": "カオルーン・ウォールド・シティ（2009年）"
+                        },
+                        "credit": {
+                            "en": "Hirofumi Hr-fm Sugimoto",
+                            "cn": "Hirofumi Hr-fm Sugimoto",
+                            "jp": "Hirofumi Hr-fm Sugimoto"
+                        }
+                    },
+                    {
+                        "url": "http://localhost:8088/public/resources/images/BN-CF510_KWCfan_E_20140404021008.jpg",
+                        "caption": {
+                            "en": "Massive City, 2012",
+                            "cn": "大规模城市，2012年",
+                            "jp": "マッシブ・シティ（2012年）"
+                        },
+                        "credit": {
+                            "en": "Alan Tsuei",
+                            "cn": "Alan Tsuei",
+                            "jp": "Alan Tsuei"
+                        }
+                    }
+                ]
+            },
+            "hed": {
+                "en": "Art and Design",
+                "cn": "艺术和设计",
+                "jp": "アート＆デザイン"
+            },
+            "dek": {
+                "en": "See art and design inspired by the Walled City’s fans around the world.",
+                "cn": "来看看九龙寨城的粉丝受它启发所创作的艺术和设计作品。",
+                "jp": "世界中の九龍城砦ファンに触発されたアートやデザインを見る"
+            }
+        },
+        {
+            "name": {
+                "en": "‘Hongkongs Geheime Stadt’(‘Hong Kong's Secret City’)",
+                "cn": "Hongkongs Geheime Stadt（香港的秘密之城）",
+                "jp": "Hongkongs Geheime Stadt’（香港の秘密の街）"
+            },
+            "year": {
+                "en": "1989",
+                "cn": "1989年",
+                "jp": "1989年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CI384_KWC_YO_DV_20140411065725.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "DF60B6FE-8CF1-4BF4-9BD3-E6D5DB9D16D4",
+                    "cn": "9874BD67-7BBE-45C8-A8D6-8455921B64D1",
+                    "jp": "20CDFFE8-00DB-47B5-8E32-7FCE2832D5F6"
+                },
+                "hed": {
+                    "en": "YouTube",
+                    "cn": "YouTube",
+                    "jp": "YouTube"
+                },
+                "dek": {
+                    "en": "Unofficially released online, an Austrian documentary has garnered more than 1.2 million views on YouTube.",
+                    "cn": "虽然从没有正式在网络上发布，但这部奥地利的纪录片，自1989年以来，在YouTube上的点阅率已超过120万人次。",
+                    "jp": "非公式にネットに公開された1989年制作のオーストリアのドキュメンタリー作品はYouTubeで120万回以上、再生された。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "Kowloon Walled City Explorers",
+                "cn": "九龙城探险队",
+                "jp": "九龍城探検隊"
+            },
+            "year": {
+                "en": "1993",
+                "cn": "1993年",
+                "jp": "1993年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CG125_KWC_jp_DV_20140407001636.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "02EC8F46-9DDD-4824-B7E0-799B586A0571",
+                    "cn": "44C9F4BE-DFB8-4CED-9DF6-55295EB2FD21",
+                    "jp": "02EC8F46-9DDD-4824-B7E0-799B586A0571"
+                },
+                "hed": {
+                    "en": "Kyurujo Tankentai (1993)",
+                    "cn": "九龙城探险队（1993年）",
+                    "jp": "九龍城探検隊（1993年）"
+                },
+                "dek": {
+                    "en": "A group of Japanese architects traveled to Hong Kong with an illustrator to record the Walled City in a book.",
+                    "cn": "一支名为“九龙城探险队”的日本建筑师队伍来到香港，记录九龙寨城的全貌，同行的一名插画师把他们对于寨城的想像描绘出来。",
+                    "jp": "日本の建築家グループ「九龍城探検隊」が九龍城砦の姿を本に記録するため、イラストレーターとともに香港を旅した。"
+                }
+            }
+        },
+        {
+            "name": {
+                "en": "‘Crime Story’",
+                "cn": "《重案组》",
+                "jp": "新ポリス・ストーリー"
+            },
+            "year": {
+                "en": "1993",
+                "cn": "1993年",
+                "jp": "1993年"
+            },
+            "promoUrl": "http://localhost:8088/public/resources/images/BN-CJ562_KWC_cr_E_20140415104252.jpg",
+            "mediaType": "popvideo",
+            "contents": {
+                "mediaUrl": {
+                    "en": "9EE68482-CA7E-4A07-AEA3-A675241A30B4",
+                    "cn": "7B9E7BD6-4163-4A25-A77F-5FB39E0A47B5",
+                    "jp": "26291992-F39B-489D-86CE-88B9495E5AFE"
+                },
+                "hed": {
+                    "en": "Crime Story (1993)",
+                    "cn": "《重案组》（1993年）",
+                    "jp": "新ポリス・ストーリー（1993年）"
+                },
+                "dek": {
+                    "en": "“Crime Story,” starring Jackie Chan, used the Walled City’s empty shell as a backdrop for its explosive finale.",
+                    "cn": "由成龙主演的电影《重案组》，该片利用九龙寨城里的空楼作为结尾爆炸场面的背景。",
+                    "jp": "ジャッキー・チェン主演「新ポリス・ストーリー」のラストシーンでは、九龍城砦の空の建物を爆破した。"
+                }
+            }
+        }
+    ]
+}

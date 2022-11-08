@@ -1,0 +1,101 @@
+{
+   "items":[
+      {
+         "adCategory":null,
+         "author":"cdt",
+         "catastrophic":"0",
+         "column":null,
+         "description":"The Kowloon Walled City in Hong Kong was once the most densely populated place on earth, a teeming hive of interlinking high-rises that few dared to enter but 33,000 people called home. Lam Po-chun worked inside Hong Kong's Kowloon Walled City for 12 years. ",
+         "doctypeID":"115",
+         "duration":"86",
+         "editor":"cdt",
+         "formattedCreationDate":"4/15/2014 7:57:31 AM",
+         "guid":"4C437F64-E761-4D61-89AB-45D86580ABB5",
+         "hls":"https://m.wsj.net/video/20140409/characters_postman2/hls/manifest-hd-wifi.m3u8",
+         "keywords":[
+            
+         ],
+         "keywordsOmniture":"",
+         "linkShortURL":"https://www.wsj.com/video/kowloon-walled-city-characters-postman/4C437F64-E761-4D61-89AB-45D86580ABB5.html",
+         "linkURL":"https://www.wsj.com/video/kowloon-walled-city-characters-postman/4C437F64-E761-4D61-89AB-45D86580ABB5.html",
+         "name":"Kowloon Walled City- Characters- \"Postman\"",
+         "omnitureProgramName":"WSJLive_No Section_No Subsection_Non-Program",
+         "omniturePublishDate":"video_2014-04-15 07:57",
+         "omnitureVideoFormat":"video_vod_non-program",
+         "provider":"WSJ.com",
+         "secondsUntilStartTime":0,
+         "showName":null,
+         "state":"vod",
+         "thumbnailList":[
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_115x65.jpg",
+               "width":115,
+               "height":65,
+               "aspectRatio":1.7692
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_16x9thumb.jpg",
+               "width":120,
+               "height":68,
+               "aspectRatio":1.7647
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_167x94.jpg",
+               "width":167,
+               "height":94,
+               "aspectRatio":1.7766
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_198x112.jpg",
+               "width":198,
+               "height":112,
+               "aspectRatio":1.7679
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_16x9still.jpg",
+               "width":480,
+               "height":270,
+               "aspectRatio":1.7778
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_512x288.jpg",
+               "width":512,
+               "height":288,
+               "aspectRatio":1.7778
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_640x360.jpg",
+               "width":640,
+               "height":360,
+               "aspectRatio":1.7778
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_960x540.jpg",
+               "width":960,
+               "height":540,
+               "aspectRatio":1.7778
+            },
+            {
+               "url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_1280x720.jpg",
+               "width":1280,
+               "height":720,
+               "aspectRatio":1.7778
+            }
+         ],
+         "titletag":"Kowloon Walled City Interactive Videos",
+         "videoStillURL":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_512x288.jpg",
+         "wsj-section":null,
+         "wsj-subsection":null,
+         "adZone":"default",
+         "emailURL":null,
+         "rssURL":null,
+         "video128kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_128k.mp4",
+         "video320kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_320k.mp4",
+         "video1264kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_v2_ec1264k.mp4",
+         "video664kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_v2_ec664k.mp4",
+         "video464kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_v2_ec464k.mp4",
+         "video264kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_v2_ec264k.mp4",
+         "video174kMP4Url":"https://m.wsj.net/video/20140409/characters_postman2/characters_postman2_v2_ec174k.mp4"
+      }
+   ]
+}
