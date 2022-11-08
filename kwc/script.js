@@ -1877,7 +1877,7 @@ var intervalHandle = [];
             var parameters = { 
                 guid: eval('content.mediaUrl.' + myLang),  // alternative query = type:'live-channel', query:'nyc',
                 //api: 'https://video-api.wsj.com/api-video/',
-                api: 'http://www.thingsmind.com:8088/api-video/',
+                api: '/api-video/',
                 autoplay: autoplay,
                 disableEndscreen: true,
                 adsEnabled: true,
@@ -1931,7 +1931,7 @@ var intervalHandle = [];
             var parameters = { 
                 guid: eval('content.mediaUrl.' + myLang),  // alternative query = type:'live-channel', query:'nyc',
                 // api: 'https://video-api.wsj.com/api-video/',
-                api: 'http://www.thingsmind.com:8088/api-video/',
+                api: '/api-video/',
                 autoplay: autoplay,
                 disableEndscreen: true,
                 adsEnabled: true,
