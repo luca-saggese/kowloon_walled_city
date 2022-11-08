@@ -5,3 +5,5 @@ to launch type:
 node install
 node index.js
 and open browser to http://localhost:8088
+
+demo at http://www.thingsmind.com:8088
