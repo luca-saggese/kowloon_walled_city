@@ -148,7 +148,7 @@ var intervalHandle = [];
         // If tracking is not set or is not equal to 0, project will track.
         if (tracking != 0) {
             //UNCOMMENT IF YOU WANT TO TRACK THE PAGE LOAD 
-            window.countPage(proj_id, proj_headline, "", trackingOpts); 
+            // window.countPage(proj_id, proj_headline, "", trackingOpts); 
         } 
     }
 
