@@ -934,6 +934,7 @@ jQuery.fn.extend({
 				if(settings.guid || (settings.type !== "" && settings.query !== "")){
 					var call = "";
 					var httpParam = "";
+					fields = '';
 					if(settings.useHttps)
 						httpParam = "&https=1";
 					if(settings.guid){
