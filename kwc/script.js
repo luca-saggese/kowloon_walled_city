@@ -1578,7 +1578,7 @@ var intervalHandle = [];
         mainHtml += '</div>'; */
         mainHtml += '<div id="mainContentIntro" class="mainContentMedia">';
         // TODO: Logic here about photo or video
-        //mainHtml += '<img src="http://localhost:8088/public/resources/images/BN-BX770_Slide0_M_20140314235648.jpg"/>';
+        //mainHtml += '<img src="http://www.thingsmind.com:8088/public/resources/images/BN-BX770_Slide0_M_20140314235648.jpg"/>';
         mainHtml += '</div>';
         mainHtml += '</div>';
         $('#mainContent').prepend(mainHtml);
@@ -1877,7 +1877,7 @@ var intervalHandle = [];
             var parameters = { 
                 guid: eval('content.mediaUrl.' + myLang),  // alternative query = type:'live-channel', query:'nyc',
                 //api: 'https://video-api.wsj.com/api-video/',
-                api: 'http://localhost:8088/api-video/',
+                api: 'http://www.thingsmind.com:8088/api-video/',
                 autoplay: autoplay,
                 disableEndscreen: true,
                 adsEnabled: true,
@@ -1931,7 +1931,7 @@ var intervalHandle = [];
             var parameters = { 
                 guid: eval('content.mediaUrl.' + myLang),  // alternative query = type:'live-channel', query:'nyc',
                 // api: 'https://video-api.wsj.com/api-video/',
-                api: 'http://localhost:8088/api-video/',
+                api: 'http://www.thingsmind.com:8088/api-video/',
                 autoplay: autoplay,
                 disableEndscreen: true,
                 adsEnabled: true,
