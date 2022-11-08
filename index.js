@@ -21,6 +21,6 @@ app.get('/api-video/find_all_videos.asp', (req, res) => {
 
 app.use(express.static(path.join(__dirname, 'kwc')));
 
-app .listen(PORT)
+app.listen(PORT, '0.0.0.0');
 
-console.log('open http://localhost:8088/index.html')
+console.log('open ' + host + '/index.html')
